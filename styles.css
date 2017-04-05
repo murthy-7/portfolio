@@ -1,0 +1,13 @@
+body{
+background:black;
+padding:15px;
+}
+
+
+a img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
+h1{
+	color:white;
+}

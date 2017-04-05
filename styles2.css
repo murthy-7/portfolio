@@ -1,0 +1,12 @@
+body{
+background:url(brookenscolonnadenight.jpg);
+background-repeat:no-repeat;
+color:white;
+padding:10px;
+font-size:20px;
+}
+a:hover { 
+    background-color: yellow;
+	target-name:new;
+    target-new:tab;
+}
